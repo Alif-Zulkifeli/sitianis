@@ -40,12 +40,12 @@ export default function Home() {
         
 
         <div className="text-center font-curve pt-10 text-gray-800 text-xl px-4 "  data-aos="fade-up" data-aos-duration="1000"  >
-        Graduation is not the end, it's the beginning. It's a time to celebrate the past and look forward to the future. It's a time to reflect on all the hard work and determination that got you to this point. 🎉
+        Graduation is not the end, it&apos;s the beginning. It&apos;s a time to celebrate the past and look forward to the future. It&apos;s a time to reflect on all the hard work and determination that got you to this point. 🎉
         </div>
 
         <div className="text-center font-curve pt-10 text-gray-800 text-xl px-4 "  data-aos="fade-up" data-aos-duration="1000"  >
         
-        It's a time to set new goals and start pursuing your dreams. It's a time to say goodbye to old friends and hello to new ones. But most of all, it's a time to be proud of yourself and all that you've accomplished. So enjoy this moment and make the most of it 🎉
+        It&apos;s a time to set new goals and start pursuing your dreams. It&apos;s a time to say goodbye to old friends and hello to new ones. But most of all, it&apos;s a time to be proud of yourself and all that you've accomplished. So enjoy this moment and make the most of it 🎉
         </div>
 
         <div className='grid grid-cols-2 gap-4' >
@@ -101,12 +101,12 @@ export default function Home() {
 
 
         <div className="text-center font-curve pt-10 text-gray-800 text-xl px-4 "  data-aos="fade-up" data-aos-duration="1000"  >
-        Graduation is not the end, it's the beginning. It's a time to celebrate the past and look forward to the future. It's a time to reflect on all the hard work and determination that got you to this point. 🎉
+        Graduation is not the end, it&apos;s the beginning. It&apos;s a time to celebrate the past and look forward to the future. It&apos;s a time to reflect on all the hard work and determination that got you to this point. 🎉
         </div>
 
         <div className="text-center font-curve pt-10 text-gray-800 text-xl px-4 "  data-aos="fade-up" data-aos-duration="1000"  >
         
-        It's a time to set new goals and start pursuing your dreams. It's a time to say goodbye to old friends and hello to new ones. But most of all, it's a time to be proud of yourself and all that you've accomplished. So enjoy this moment and make the most of it 🎉
+        It&apos;s a time to set new goals and start pursuing your dreams. It&apos;s a time to say goodbye to old friends and hello to new ones. But most of all, it&apos;s a time to be proud of yourself and all that you've accomplished. So enjoy this moment and make the most of it 🎉
         </div>
      
 
