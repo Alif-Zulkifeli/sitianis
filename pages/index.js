@@ -45,7 +45,7 @@ export default function Home() {
 
         <div className="text-center font-curve pt-10 text-gray-800 text-xl px-4 "  data-aos="fade-up" data-aos-duration="1000"  >
         
-        It&apos;s a time to set new goals and start pursuing your dreams. It&apos;s a time to say goodbye to old friends and hello to new ones. But most of all, it&apos;s a time to be proud of yourself and all that you've accomplished. So enjoy this moment and make the most of it 🎉
+        It&apos;s a time to set new goals and start pursuing your dreams. It&apos;s a time to say goodbye to old friends and hello to new ones. But most of all, it&apos;s a time to be proud of yourself and all that you&apos;ve accomplished. So enjoy this moment and make the most of it 🎉
         </div>
 
         <div className='grid grid-cols-2 gap-4' >
@@ -106,7 +106,7 @@ export default function Home() {
 
         <div className="text-center font-curve pt-10 text-gray-800 text-xl px-4 "  data-aos="fade-up" data-aos-duration="1000"  >
         
-        It&apos;s a time to set new goals and start pursuing your dreams. It&apos;s a time to say goodbye to old friends and hello to new ones. But most of all, it&apos;s a time to be proud of yourself and all that you've accomplished. So enjoy this moment and make the most of it 🎉
+        It&apos;s a time to set new goals and start pursuing your dreams. It&apos;s a time to say goodbye to old friends and hello to new ones. But most of all, it&apos;s a time to be proud of yourself and all that you&apos;ve accomplished. So enjoy this moment and make the most of it 🎉
         </div>
      
 
